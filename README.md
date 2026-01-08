@@ -16,7 +16,7 @@ I enjoy building solutions using Python and working on programming and data-focu
 ---
 
 ## 🛠 Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,sql,nodejs,js,html,css,git" />
+<img src="WhatsApp Image 2026-01-08 at 10.54.15.jpeg" width="500" />
 
 ---
 
